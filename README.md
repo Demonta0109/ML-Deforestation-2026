@@ -6,5 +6,5 @@ Members : Malo Clément, Tristan Garnier, Raphaël Soave, Louis Lazauche
 python -m venv venv
 ```
 ```
-pip install -r requierements.txt
+pip install -r requirements.txt
 ```
